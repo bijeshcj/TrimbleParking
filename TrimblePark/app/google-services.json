@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81909586888",
+    "firebase_url": "https://trimbleautopark.firebaseio.com",
+    "project_id": "trimbleautopark",
+    "storage_bucket": "trimbleautopark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81909586888:android:ebc62c6e74029649d0befd",
+        "android_client_info": {
+          "package_name": "com.bijesh.trimblepark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81909586888-s4v9k4gq0lfu6vvvoqhfnmahjg7cmlvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE0vgiASAnn8WgZEDed9Pr3mz7yCvq3gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81909586888-s4v9k4gq0lfu6vvvoqhfnmahjg7cmlvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

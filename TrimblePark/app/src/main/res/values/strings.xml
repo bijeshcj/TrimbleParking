@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TrimblePark</string>
+
+    <string name="log_in_button">Log in</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="register">Register</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="conform_pass">Confirm password</string>
+    <string name="register_vehicle_header">Register your vehicle</string>
+    <string name="hint_vehicle_number">Enter Vehicle Number</string>
+    <string name="vehicle_model">Enter Vehicle Model</string>
+    <string name="view_all_veh">View All Vehicle</string>
+    <string name="my_profile">View My Vehicle</string>
+</resources>
